@@ -1,4 +1,4 @@
 [hush]
-url=https://xxxx.amazonaws.com/test/devices
+url=https://reqres.in/api/
 device=device-0002
 key=xxxx
